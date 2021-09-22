@@ -24,5 +24,5 @@ function myFunction() {
         }
     }; return myMusic;
 }
-console.log(myFunction()[2]);
+myFunction()[2]);
 module.exports = myFunction;
