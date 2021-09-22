@@ -8,7 +8,7 @@
 
 function myFunction(name) {
     // Only change code below this line
-    school.name = "Paragon";
+    school.name = name;
     return school;
     
     // Only change code above this line
