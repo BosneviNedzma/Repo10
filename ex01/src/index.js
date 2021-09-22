@@ -4,7 +4,7 @@
        name: "Mehinica",
        legs : 4,
        friends: "Meho, Huso"
-   } 
+   };
    function myFunction (myObj){ 
        return myObj;
    }

@@ -9,7 +9,7 @@
      var shirtValue = myObj.shirt;
      var shoesValue = myObj.shoes;
      return {hatValue, shirtValue, shoesValue};
- };
+ }
 // Only change code above this line
 console.log(myFunction(myClothes)); // Change this line
 module.exports = myFunction(myClothes);
