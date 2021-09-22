@@ -8,7 +8,7 @@
 
 function myFunction(propName, propValue) { // Change this line
 // Only change code below this line
-   lion.roar = "roar-roar";
+   lion[propName] = propValue;
    return lion;
 // Only change code above this line
 }
